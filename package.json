@@ -1,0 +1,27 @@
+{
+  "name": "slow-install",
+  "version": "1.0.0",
+  "description": "This will take some time to install.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  },
+  "keywords": [
+    "npm",
+    "time",
+    "slow",
+    "test",
+    "dummy",
+    "fixture"
+  ],
+  "author": "Tim Oxley <secoif@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timoxley/slow-install.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timoxley/slow-install/issues"
+  },
+  "homepage": "https://github.com/timoxley/slow-install"
+}
